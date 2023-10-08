@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\PizzaBuilder\BuilderPattern\obj\Debug\BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PizzaBuilder\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache

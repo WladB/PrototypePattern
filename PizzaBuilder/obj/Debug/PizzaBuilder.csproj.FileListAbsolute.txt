@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PizzaBuilder\PizzaBuilder\bin\Debug\PizzaBuilder.exe.config
+C:\Users\User\source\repos\PizzaBuilder\PizzaBuilder\bin\Debug\PizzaBuilder.exe
+C:\Users\User\source\repos\PizzaBuilder\PizzaBuilder\bin\Debug\PizzaBuilder.pdb
+C:\Users\User\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\PizzaBuilder.Form1.resources
+C:\Users\User\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\PizzaBuilder.Properties.Resources.resources
+C:\Users\User\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\PizzaBuilder.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\PizzaBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\PizzaBuilder.exe
+C:\Users\User\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\PizzaBuilder.pdb
+C:\Users\User\source\repos\PizzaBuilder\PizzaBuilder\obj\Debug\PizzaBuilder.csproj.AssemblyReference.cache
