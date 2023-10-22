@@ -15,11 +15,15 @@ namespace PizzaBuilder
         public Form1()
         {
             InitializeComponent();
-            director.Builder = builder;
+            
+            
+            
         }
         Graphics g;
         Director director = new Director();
-        Builder builder = new Builder();
+        BuilderHerbsPizza builder3 = new BuilderHerbsPizza();
+        BuilderHuntingPizza builder1 = new BuilderHuntingPizza();
+        BuilderMushroomsPizza builder2 = new BuilderMushroomsPizza();
         int leftLocation=-170;
         PictureBox picture;
         byte count = 0;
@@ -68,8 +72,9 @@ namespace PizzaBuilder
 
         private void button3_Click(object sender, EventArgs e)
         {
+            director.Builder = builder3;
             director.Herbs_pizza();
-            Drawing(builder.GetProduct().ListParts());
+            Drawing(builder3.GetProduct().ListParts());
         }
 
         private void Form1_MouseClick(object sender, MouseEventArgs e)
@@ -84,14 +89,16 @@ namespace PizzaBuilder
 
         private void button2_Click_1(object sender, EventArgs e)
         {
+            director.Builder = builder2;
             director.Mushroom_pizza();
-            Drawing(builder.GetProduct().ListParts());
+            Drawing(builder2.GetProduct().ListParts());
         }
 
         private void button1_Click_1(object sender, EventArgs e)
         {
+            director.Builder = builder1;
             director.Hunting_pizza();
-            Drawing(builder.GetProduct().ListParts());
+            Drawing(builder1.GetProduct().ListParts());
         }
 
         private void button4_Click(object sender, EventArgs e)

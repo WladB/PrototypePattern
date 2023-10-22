@@ -9,7 +9,6 @@ namespace PizzaBuilder
    public class Director
     {
         private AbstractBuilder builder;
-
         public AbstractBuilder Builder
         {
             set { builder = value; }

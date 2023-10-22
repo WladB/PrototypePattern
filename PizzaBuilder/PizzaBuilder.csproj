@@ -47,7 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ABuilder.cs" />
-    <Compile Include="Builder.cs" />
+    <Compile Include="Builders.cs" />
     <Compile Include="Director.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
